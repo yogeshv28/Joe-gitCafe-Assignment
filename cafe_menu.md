@@ -2,9 +2,31 @@
 
 ## Cafe Menu
 
+##### _new ice tea is added_
+
 #### ✨Coffee makes Magic ✨
 
 ## List Of menu
+
+### Ice Tea
+
+$ 20.00
+
+![Shop Blend](https://cdn.shopify.com/s/files/1/0651/6375/products/2V1A4359_460x.jpg?v=1657202147)
+
+#### Tasting Notes
+
+Heavy, comforting and familiar. A medium roast that creates a coffee with rich sweet notes of chocolate and vanilla
+
+#### Type: Arabica
+
+Varieties: Catuai
+
+Processing: Red Honey Processed
+
+Region: San Marcos, Tarrazu
+
+---
 
 ### Apple-Walnut Blondies
 
